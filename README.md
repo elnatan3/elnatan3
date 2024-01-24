@@ -18,7 +18,7 @@
 ## 🔥 Streak Stats
 
 
-[![GitHub Streak](https://github-readme-streak-stats-three-zeta.vercel.app/?user=elnatan3)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-three-zeta.vercel.app/?user=elnatan3&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 
 
