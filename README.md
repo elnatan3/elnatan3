@@ -16,7 +16,7 @@
 ---
 
 ## 🔥 Streak Stats
-<p align="center"><img src="[![GitHub Streak](https://streak-stats.demolab.com?user=elnatan3&theme=synthwave&hide_border=true)](https://git.io/streak-stats)" alt="elnatan3"  /></p>
+<p align="center"><img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=elnatan3)](https://git.io/streak-stats)" alt="elnatan3"  /></p>
 
 
 ## 🛠️ My Skills
