@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I’m currently working on https://github.com/ilyasjamil/Findmyroommate 
+- 🔭 I’m currently working on full scale application with a partner on https://github.com/ilyasjamil/Findmyroommate 
 - 🌱 I’m currently learning **Typescript**, **Swift**, and **Ruby**
 - 📫 Reach me at **elnatantesfa21@gmail.com**
 - ⚡ Check out my [personal website!](https://elnatan-personal-portfolio.vercel.app)
