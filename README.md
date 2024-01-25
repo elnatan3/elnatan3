@@ -18,7 +18,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-      <img src="https://github-readme-streak-stats-three-zeta.vercel.app/?user=elnatan3&theme=merko" alt="GitHub Streak" /></img>
+      <img src="https://github-readme-streak-stats-three-zeta.vercel.app/?user=elnatan3&theme=blue-green" alt="GitHub Streak" /></img>
 </p>
 
 
