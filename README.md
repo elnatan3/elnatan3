@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I’m currently working on full scale application with a partner on https://github.com/ilyasjamil/Findmyroommate 
+- 🔭 I’m currently working on full scale application with a partner on https://github.com/ilyasjamil/Findmyroommate and upgrading my ultimate event app on https://github.com/elnatan3/New_Ultimate_Event
 - 🌱 I’m currently learning **Typescript**, **Swift**, and **Ruby**
 - 📫 Reach me at **elnatantesfa21@gmail.com**
 - ⚡ Check out my [personal website!](https://elnatan-personal-portfolio.vercel.app)
