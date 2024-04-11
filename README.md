@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I’m currently working on upgrading my full scale application, Ultimate Event app, on https://github.com/elnatan3/New_Ultimate_Event
+- 🔭 I’m just finished upgrading my full scale application, Ultimate Event app, on https://github.com/elnatan3/New_Ultimate_Event, and I am now working on roommate application.
 - 🌱 I’m currently learning **Typescript**, **Swift**, and **Ruby**
 - 📫 Reach me at **elnatantesfa21@gmail.com**
 - ⚡ Check out my [personal website!](https://elnatan-personal-portfolio.vercel.app)
