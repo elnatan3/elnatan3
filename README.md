@@ -10,7 +10,7 @@
 ---
 
 - 🔭 I just completed my full scale roommate matching application. Here is the link to the Repo: https://github.com/AugustanaCSC490Spring2024/Magpie
-- 🌱 I’m currently learning **Typescript**, **Swift**, and **Ruby**
+- 🌱 I’m currently learning **Rust**, **Scala**, and packages such as **Apache Kafka** and **Redis**
 - 📫 Reach me at **elnatantesfa21@gmail.com**
 - ⚡ Check out my [personal website!](https://elnatan-personal-portfolio.vercel.app)
 ---
