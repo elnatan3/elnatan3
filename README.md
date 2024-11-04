@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Senior at Augustana College pursuing B.A. in CS and Data Analytics. I am passionate about coding, designing, innovating, and experimenting. As an enthusiastic and sociable individual, I thrive on embracing new challenges and acquiring fresh skills. I enjoy meeting new people, sharing ideas, and spreading knowledge and positivity.</h4>
+<h4 align="center">I am in my last semester studying at Augustana College pursuing B.A. in CS and Data Analytics. I am passionate about coding, designing, innovating, and experimenting. As an enthusiastic and sociable individual, I thrive on embracing new challenges and acquiring fresh skills. I enjoy meeting new people, sharing ideas, and spreading knowledge and positivity.</h4>
 <br>
 
 ---
